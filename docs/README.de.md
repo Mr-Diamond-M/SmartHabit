@@ -495,9 +495,8 @@ Rapporten forklarer:
 ### 🌐 Dokumentationsgateway
 Vælg dit foretrukne sprog for at udforske den tekniske dokumentation:
 
-* GB **[English Documentation](README.en.md)** — *English*
+* GB **[English Documentation](../README.md)** — *English*
 * IR **[Persian Documentation](README.fa.md)** — *قارسی*
-* DE **[German Documentation](README.de.md)** — *tysk*
 ---
 
 # 👨‍💻 Autor
