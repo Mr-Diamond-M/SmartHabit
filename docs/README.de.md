@@ -456,7 +456,7 @@ Geplante Verbesserungen:
 
 Die vollständige Projektdokumentation befindet sich unter:
 
-![System Diagram](docs/IoT.pdf)
+![System Diagram](IoT.de.pdf)
 
 Rapporten forklarer:
 
