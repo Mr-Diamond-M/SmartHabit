@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="images/Logo.png" width="180" alt="dmd-core-logo" />
+  <img src="./images/Logo.png" width="180" alt="dmd-core-logo" />
   
   # Smart Home IoT-system
 Arkitektonisk og udviklet af dmd-core**
