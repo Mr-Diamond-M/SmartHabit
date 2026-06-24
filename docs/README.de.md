@@ -194,28 +194,6 @@ Fügen Sie hier einen Screenshot des Dashboards ein:
 
 ---
 
-# 📂 Projektstruktur
-
-```text
-Smart-Home-IoT/
-│
-├── sketch.ino
-├── diagram.json
-├── libraries.txt
-├── README.md
-├── README_DE.md
-│
-├── docs/
-│   └── IoT.pdf
-│
-└── images/
-    ├── circuit.png
-    ├── dashboard.png
-    └── simulation.png
-```
-
----
-
 # 🚀 Installationsanleitung
 
 ## Schritt 1: Arduino IDE installieren
