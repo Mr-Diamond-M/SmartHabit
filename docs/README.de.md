@@ -2,8 +2,8 @@
 
   <img src="../images/Logo.png" width="180" alt="dmd-core-logo" />
   
-  # Smart Home IoT-system
-Arkitektonisk og udviklet af dmd-core**
+  # Smart Home IoT system
+  **Arkitektonisk og udviklet af dmd-core**
 
 ![ESP32](https://img.shields.io/badge/ESP32-IoT-blue)
 ![Blynk](https://img.shields.io/badge/Blynk-Cloud-green)
