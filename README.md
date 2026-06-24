@@ -194,27 +194,6 @@ Place your dashboard screenshot here:
 
 ---
 
-# 📂 Project Structure
-
-```text
-Smart-Home-IoT/
-│
-├── sketch.ino
-├── diagram.json
-├── libraries.txt
-├── README.md
-│
-├── docs/
-│   └── IoT.pdf
-│
-└── images/
-    ├── circuit.png
-    ├── dashboard.png
-    └── simulation.png
-```
-
----
-
 # 🚀 Installation Guide
 
 ## Step 1: Install Arduino IDE
@@ -548,7 +527,7 @@ Areas of Interest:
 
 GitHub:
 
-https://github.com/YOUR_USERNAME
+https://github.com/Dmd-core
 
 ---
 
