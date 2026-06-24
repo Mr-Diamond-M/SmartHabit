@@ -3,10 +3,10 @@
   <img src="Logo.png" width="300" alt="dmd-core logo" />
 
   <h1>dmd-core</h1>
-
+  
   <p align="center">
     <b>Rare by origin • Relentless by design • Flawless in execution</b><br>
-    <i>Beyond the code. Engineered for timeless elegance.</i>
+    <b>Beyond the code. Engineered for timeless elegance.</b>
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=dmd-core&label=System%20Access&color=000000&style=flat-square" alt="visitor count" />
