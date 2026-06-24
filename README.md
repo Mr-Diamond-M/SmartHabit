@@ -528,9 +528,8 @@ The report explains:
 ### 🌐 Documentation Gateway
 Choose your preferred language to explore the technical documentation:
 
-* GB **[English Documentation](README.en.md)** — *English*
-* IR **[Persian Documentation](README.fa.md)** — *قارسی*
-* DE **[German Documentation](README.de.md)** — *tysk*
+* IR **[Persian Documentation](docs/README.fa.md)** — *قارسی*
+* DE **[German Documentation](docs/README.de.md)** — *tysk*
 ---
 
 # 👨‍💻 Author
