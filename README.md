@@ -1,35 +1,33 @@
-# 🌍 Smart Home IoT System — Multi‑Language Documentation  
+# 🌍 Smart Home IoT System  
 ### ESP32 • Blynk IoT Cloud • Wokwi Simulation
 
-این ریپازیتوری شامل پیاده‌سازی کامل یک سیستم خانه هوشمند مبتنی بر ESP32 و Blynk است.  
-برای دسترسی به مستندات کامل، زبان موردنظر خود را انتخاب کنید:
+A fully‑implemented smart home automation system designed using ESP32, Blynk IoT Cloud, and complete virtual simulation in Wokwi.  
+Choose your preferred language to view the full documentation.
 
 ---
 
 ## 🌐 Available Languages  
-**Choose your preferred language:**
-
-- 🇬🇧 **`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`**  
-- 🇮🇷 **`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`**  
-- 🇩🇪 **`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`**  
+- 🇬🇧 **English Documentation**  
+- 🇮🇷 **Persian Documentation**  
+- 🇩🇪 **German Documentation**  
 
 ---
 
-## 📦 Project Structure  
+## 📦 Repository Structure  
 ```
-/code          → Firmware (ESP32)
-/docs          → Reports & Presentation
+/code          → ESP32 firmware
+/docs          → Project report & presentation
 /schematics    → Circuit diagrams
-README.md      → Language selector
-README.en.md   → English full documentation
-README.fa.md   → Persian full documentation
-README.de.md   → German full documentation
+README.md      → Language selector (this file)
+README.en.md   → Full English documentation
+README.fa.md   → Full Persian documentation
+README.de.md   → Full German documentation
 ```
 
 ---
 
-## 🛠 Technologies  
-- ESP32  
+## 🛠 Technologies Used  
+- ESP32 Microcontroller  
 - Blynk IoT Cloud  
 - Wokwi Simulator  
 - C++ Firmware  
@@ -45,21 +43,6 @@ README.de.md   → German full documentation
 MIT License
 
 ---
-
-این README اصلی باید **خیلی کوتاه و مینیمال** باشه، چون هدفش فقط هدایت کاربر به نسخه‌های چندزبانه‌ست.
-
----
-
-## 🔥 حالا قدم بعدی  
-می‌خوای:
-
-- **نسخه انگلیسی کامل** رو بسازم؟  
-- **نسخه فارسی کامل** رو بسازم؟  
-- **نسخه آلمانی کامل** رو بسازم؟  
-- یا **هر سه نسخه رو یکجا تولید کنم**؟
-
-برای ادامه یکی رو انتخاب کن:
-
-- سه نسخه کامل بساز  
-- فقط نسخه انگلیسی  
-- فقط نسخه آلمانی
+- English version  
+- Persian version  
+- German version
