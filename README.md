@@ -515,6 +515,7 @@ Potential upgrades include:
 The complete academic report is available in:
 
 ![System Diagram](docs/IoT.pdf)
+<a href:"docs/IoT.pdf">pdf</a>
 
 The report explains:
 
