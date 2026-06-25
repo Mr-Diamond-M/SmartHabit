@@ -423,6 +423,8 @@ LED سرمایش فعال شود.
 # 📄 گزارش پروژه
 
 ![System Diagram](IoT.fa.pdf)
+
+
 ![System Diagram](IoT.view.fa.pdf)
 
 این گزارش توضیح می‌دهد:
