@@ -437,7 +437,7 @@ LED سرمایش فعال شود.
 
 ### 🌐 دروازه مستندات
 زبان مورد نظر خود را برای بررسی مستندات فنی انتخاب کنید:
-
+* JA **[Persian Documentation](docs/README.ja.md)** — *日本語*
 * GB **[English Documentation](../README.md)** — *English*
 * DE **[German Documentation](docs/README.de.md)** — *tysk*
 
