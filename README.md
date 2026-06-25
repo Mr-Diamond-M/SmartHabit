@@ -504,6 +504,7 @@ The report explains:
 ### 🌐 Documentation Gateway
 Choose your preferred language to explore the technical documentation:
 
+* JA **[Persian Documentation](docs/README.ja.md)** — *日本語*
 * IR **[Persian Documentation](docs/README.fa.md)** — *فارسی*
 * DE **[German Documentation](docs/README.de.md)** — *tysk*
 ---
