@@ -181,13 +181,9 @@ GPIO21 → Widerstand → LED → GND
 
 ## Schaltplan
 
-Fügen Sie hier einen Screenshot der Schaltung ein:
-
 <img src="../images/circuit.png" width="180" alt="dmd-core-logo" />
 
 ## Blynk Dashboard
-
-Fügen Sie hier einen Screenshot des Dashboards ein:
 
 <img src="../images/dashboard.png" width="180" alt="dmd-core-logo" />
 
