@@ -424,9 +424,6 @@ LED سرمایش فعال شود.
 
 ![System Diagram](IoT.fa.pdf)
 
-
-![System Diagram](IoT.view.fa.pdf)
-
 این گزارش توضیح می‌دهد:
 
 * اهداف پروژه
